@@ -209,3 +209,5 @@ run/
 runs/*
 MNIST*
 *model.pt
+.claude/settings.local.json
+.vscode/*
